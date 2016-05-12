@@ -1,7 +1,7 @@
 name: Bewegungssinn
 favicon: null
-layout_spectrum: 0.04150086035951972
-typography_spectrum: 0.11738258181139827
+layout_spectrum: 0.49874
+typography_spectrum: 0.87437
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#00437a'
+    - '#0098d4'
+    - '#572f08'
+    - '#a7bed1'
   brandStrength: 0.20344145293347538
   lightness: 0.8783680952619761
   saturation: 0.8314805750269443
