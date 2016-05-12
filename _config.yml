@@ -1,0 +1,28 @@
+name: Bewegungssinn
+favicon: null
+layout_spectrum: 0.04150086035951972
+typography_spectrum: 0.11738258181139827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20344145293347538
+  lightness: 0.8783680952619761
+  saturation: 0.8314805750269443
+  rhythmicContrast: 0.5857982856687158
+purpose: []
