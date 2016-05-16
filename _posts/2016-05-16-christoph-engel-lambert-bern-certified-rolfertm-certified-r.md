@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Christoph Engel-Lambert, BernCertified RolferTMCertified Rolf Movement PractitionerTM'
-datePublished: '2016-05-16T19:07:44.632Z'
-dateModified: '2016-05-16T19:07:33.240Z'
+description: 'Christoph Engel-Lambert, Bern Certified RolferTM Certified Rolf Movement PractitionerTM'
+datePublished: '2016-05-16T19:15:54.932Z'
+dateModified: '2016-05-16T19:07:53.539Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-christoph-engel-lambert-bern-certified-rolfertm-certified-r.md
