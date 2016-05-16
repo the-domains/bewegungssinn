@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Bewegungssinn - refine your movement Praxis für Strukturelle & Movement Integration Christoph Engel-Lambert Gartenstrasse 12 3007 Bern'
-datePublished: '2016-05-16T19:52:25.550Z'
-dateModified: '2016-05-16T19:50:32.472Z'
+datePublished: '2016-05-16T19:58:21.701Z'
+dateModified: '2016-05-16T19:52:33.188Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-bewegungssinn-refine-your-movementpraxis-fur-strukturelle.md
