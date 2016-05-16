@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 1920 schloss Ida Pauline Rolf ihre Doktorarbeit in Biochemie an der Columbia University of New York ab. Sie arbeitete einige Jahre am Rockefeller Institut in der Abteilung für Chemotherapie und Organische Chemie bevor sie ihre Studien in Mathematik und Atomphysik nach Zürich führten.
-datePublished: '2016-05-16T19:51:50.921Z'
-dateModified: '2016-05-16T19:50:36.194Z'
+datePublished: '2016-05-16T19:52:47.253Z'
+dateModified: '2016-05-16T19:51:59.404Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-1920-schloss-ida-pauline-rolf-ihre-doktorarbeit-in-biochemie.md
