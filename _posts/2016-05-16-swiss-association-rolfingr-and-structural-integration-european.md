@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Swiss Association Rolfing® & Structural Integration European Rolfing® Association Rolf Institute of Structural Integration  MatteMove - Physiotherapie Pilates  Tatkraft Creative Training  Bodywell - health, beauty & therapy  Karate Club Bern  '
-datePublished: '2016-05-16T19:27:21.233Z'
-dateModified: '2016-05-16T19:27:15.805Z'
+description: 'Swiss Association Rolfing® & Structural Integration European Rolfing® Association Rolf Institute of Structural Integration MatteMove - Physiotherapie Pilates Tatkraft Creative Training Bodywell - health, beauty & therapy Karate Club Bern'
+datePublished: '2016-05-16T19:29:08.135Z'
+dateModified: '2016-05-16T19:27:27.030Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-16-swiss-association-rolfingr-and-structural-integration-european.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-16-swiss-association-rolfingr-and-structural-integration-european.md
 url: swiss-association-rolfingr-and-structural-integration-european/index.html
 _type: Article
 
