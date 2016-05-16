@@ -5,18 +5,18 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Für viele Menschen bedeutet Rolfing® Strukturelle Integration ein Weg, von langwierigen Schmerzen, sich älter fühlen als im Pass steht und frustrierenden Einschränkungen nachhaltig los und zurück ins Leben zu kommen.'
-datePublished: '2016-05-16T18:25:29.339Z'
-dateModified: '2016-05-16T18:25:05.890Z'
+datePublished: '2016-05-16T18:41:11.489Z'
+dateModified: '2016-05-16T18:33:08.259Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-rolfingr-strukturelle-integration.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-16-rolfingr-strukturelle-integration.md
+starred: true
 url: rolfingr-strukturelle-integration/index.html
 _type: WebPage
 
