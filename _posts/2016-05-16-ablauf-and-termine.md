@@ -5,17 +5,17 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"Es ist das Opfer welches schreit - nicht der Täter."'
-datePublished: '2016-05-16T18:40:39.524Z'
-dateModified: '2016-05-16T18:33:16.207Z'
+datePublished: '2016-05-16T19:58:44.983Z'
+dateModified: '2016-05-16T19:53:41.054Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-ablauf-and-termine.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-16-ablauf-and-termine.md
 starred: true
 url: ablauf-and-termine/index.html
 _type: WebPage
