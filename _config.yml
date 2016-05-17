@@ -13,8 +13,8 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
-  brandStrength: 0.2831541
+  saturation: 0.3727598
+  brandStrength: 0.1989247
   lightness: 0.8125
   brandColors:
     - '#ffffff'
@@ -22,7 +22,7 @@ color:
     - '#0098d4'
     - '#572f08'
     - '#a7bed1'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.3494624
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Bewegungssinn
+favicon: null
 opengraph:
   image: null
   type: null
