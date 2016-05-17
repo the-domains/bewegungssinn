@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.5
-  brandStrength: 0.1875
-  rhythmicContrast: 0.5
+  brandStrength: 0.7401434
+  lightness: 0.8125
   brandColors:
     - '#ffffff'
     - '#00437a'
     - '#0098d4'
     - '#572f08'
     - '#a7bed1'
-  lightness: 0.8125
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Bewegungssinn
 favicon: null
+name: Bewegungssinn
 opengraph:
   image: null
   type: null
