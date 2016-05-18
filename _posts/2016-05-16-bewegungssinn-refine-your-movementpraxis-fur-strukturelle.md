@@ -4,19 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Bewegungssinn - refine your movement Praxis für Strukturelle & Movement Integration Christoph Engel-Lambert Gartenstrasse 12 3007 Bern'
-datePublished: '2016-05-16T19:58:21.701Z'
-dateModified: '2016-05-16T19:52:33.188Z'
+description: 'Bewegungssinn - refine your movementPraxis für Strukturelle & Movement IntegrationChristoph Engel-LambertGartenstrasse 123007 Bern'
+datePublished: '2016-05-18T20:16:40.704Z'
+dateModified: '2016-05-18T20:13:52.652Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-bewegungssinn-refine-your-movementpraxis-fur-strukturelle.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: null
+starred: false
 url: bewegungssinn-refine-your-movementpraxis-fur-strukturelle/index.html
 _type: WebPage
 
